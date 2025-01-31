@@ -41,7 +41,7 @@ const handelLogin=(email,password)=>{
          }
        }
     else{
-      alert("Invalid Credentials")
+      alert('Invalid Email or Password')
     }
    }
 
