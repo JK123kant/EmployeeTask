@@ -34,6 +34,5 @@ This is a **React.js + Tailwind CSS** project that provides a **Task Management 
 ```bash
 git clone https://github.com/yourusername/employee-task-management.git
 cd employee-task-management
-![image](https://github.com/user-attachments/assets/a00d5d39-d6be-4d94-88da-edfd5a3ebec6)
-![image](https://github.com/user-attachments/assets/d4eede78-613e-415c-8eed-e0e83824f1a0)
+
 
