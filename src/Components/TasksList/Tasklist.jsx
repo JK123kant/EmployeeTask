@@ -1,6 +1,6 @@
 import Accepttask from "./AcceptTask"
 import Completetask from "./Completetask"
-import Failedtask from "./failedtask"
+import Failedtask from "./Failedtask"
 import Newtask from "./Newtask"
 import PropTypes from 'prop-types'
 
